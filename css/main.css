@@ -1,0 +1,29 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.slider
+{
+	position: relative;
+}
+.movi-content
+{
+	position: absolute;
+	bottom: 10%;
+	left: 10%;
+	color:#fff;
+	width: auto;
+	height: auto;
+	background:#000;
+	padding:10px;
+	border-radius: 10px;
+	opacity: 0.7;
+}
+.movi-content h3
+{
+	font-size: 40px;
+	font-weight: bold;
+	line-height: 28px ;
+}
